@@ -26,6 +26,10 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## 기능
+- 회원가입 / 로그인
+- 게시글 CRUD
+
 ## Installation
 
 ```bash
